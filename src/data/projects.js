@@ -68,7 +68,7 @@ export const projects = [
       "Gained experience in deploying full-stack applications",
     ],
     techStack: ["React", "Node.js", "Express", "MongoDB", "Redux", "Tailwind"],
-    repoLink: "",
-    liveLink: "https://project-exam-2-demo.netlify.app",
+    repoLink: "https://github.com/Agency-2-gul/ca-agency-2",
+    liveLink: "https://ca-agency-2-gul.netlify.app/",
   },
 ];
