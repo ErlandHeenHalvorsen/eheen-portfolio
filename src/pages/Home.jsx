@@ -6,7 +6,7 @@ import "../index.css";
 
 function Home() {
   return (
-    <div className="flex flex-col m-auto items-center justify-center min-h-screen">
+    <div className="max-w-[1100px] mx-auto p-8 font-sans text-[#222]">
       <AboutSection />
       <TechStack />
       <ProjectGrid />
