@@ -1,4 +1,4 @@
-
+import MbThumb from "../assets/projects/thumbs/MbThumb-min.png";
 
 export const projects = [
   {
@@ -49,9 +49,9 @@ export const projects = [
     liveLink: "https://project-exam-2-demo.netlify.app",
   },
   {
-    id: "project-exam-2",
-    title: "Project Exam 2",
-    thumbnail: "",
+    id: "matboksen",
+    title: "Matboksen",
+    thumbnail: MbThumb,
     gallery: ["", ""],
     description:
       "Final exam project showcasing API usage, React Routing and modern development tools.",

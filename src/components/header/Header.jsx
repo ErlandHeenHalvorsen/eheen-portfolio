@@ -12,6 +12,9 @@ const Header = () => {
           Erland Heen Halvorsen
         </Link>
       </h1>
+      <nav className="mt-2">
+        <Link to="/Contact">Contact</Link>
+      </nav>
     </header>
   );
 };
